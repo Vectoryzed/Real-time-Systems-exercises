@@ -1,9 +1,0 @@
-*** SISTEMI REAL-TIME - HOMEWORK 1 ***
-
- _________________________________
-|  NOME   |  COGNOME  | MATRICOLA |
-|         |           |           |
-| GAETANO |  RUCCO    | N46001237 |
-| DANIELE |  VERGARA  | N46001562 |
-| VALERIO |  VITTORIA | N46001715 |
-|_________|___________|___________|
