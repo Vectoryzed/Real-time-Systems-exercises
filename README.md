@@ -2,4 +2,4 @@
 
 Exercises from the Design and Development of Real-time Systems university course.
 
-The execises are been made using RTAI RTOS and MARTE.
+The execises are been done using RTAI RTOS and MARTE.
