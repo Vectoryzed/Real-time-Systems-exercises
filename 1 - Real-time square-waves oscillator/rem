@@ -1,0 +1,3 @@
+rmmod rt_oscillator
+rmmod oscillator
+./remod
