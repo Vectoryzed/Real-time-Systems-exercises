@@ -1,0 +1,9 @@
+Christian Onzaca, N46001351
+Antonio Pagano, N46001239
+Daniele Vergara, N46001562
+Annamaria Nitride, N46001488
+
+Variante realizzata: 2
+
+Parti opzionali:
+Sono presenti analisi di schedulabilità e algorithmic diversity.
